@@ -20,7 +20,7 @@ import com.facebook.login.widget.LoginButton;
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
 
-public class MainActivity extends Activity {
+public class  MainActivity extends Activity {
 
     private CallbackManager callbackManager;
     private LoginButton loginButton;
